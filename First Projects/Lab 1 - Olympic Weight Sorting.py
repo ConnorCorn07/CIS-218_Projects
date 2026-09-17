@@ -43,4 +43,3 @@ if gender == ('female' or 'Female' or 'f'):
         print('You are in the 69-77kg category')
     elif weightkg < 86:
         print('You are in the 77-86kg category')
-        
